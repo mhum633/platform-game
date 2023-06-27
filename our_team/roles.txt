@@ -1,0 +1,8 @@
+Project Manager: Richard
+Story Writers: William, Eric, Richard
+Coders: Michael, Wiliam, Richard
+Artists: Isaac, Noel, Michael
+Level Designers: Michael, Noel
+Sound Designers: Michael, Eric
+Logger: Noel, Isaac
+Mentors: Jeffery, Aaron
