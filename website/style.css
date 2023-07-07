@@ -1,1 +1,12 @@
 /* add stuff here */
+ h1{
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    text-align:center;
+  }
+
+  p{
+    font-family: Times, serif;
+    font-size:18px;
+    color:black;
+  }
